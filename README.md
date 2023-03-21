@@ -1,2 +1,2 @@
 # CryptoTradinProject
-Projeto um aplicativo de crypto moedas
+Projeto de um aplicativo de crypto moedas
